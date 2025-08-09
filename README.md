@@ -28,7 +28,7 @@ Convert `.srt` subtitle files into high-quality speech audio using [ElevenLabs A
 ## Installation
 
 # Clone the repository
-git clone https://github.com/lulueve3/srt-to-audio-elevenlabs.git
+git clone https://github.com/lulueve3/srt-to-audio-elevenlabs
 
 cd srt-to-audio-elevenlabs
 
