@@ -16,7 +16,7 @@ Convert `.srt` subtitle files into high-quality speech audio using [ElevenLabs A
 
 ## Requirements
 - Python 3.12
-- ElevenLabs API key ([Get it here](https://elevenlabs.io/app/settings/api-keys))
+- ElevenLabs API key ([Get it here](https://elevenlabs.io/app/settings/api-keys)) 10k credits/month
 - **ffmpeg** installed on your system
 
 
