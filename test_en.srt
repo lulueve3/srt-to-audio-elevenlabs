@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hello everyone, welcome to this demo of our SRT to Audio converter.
+
+2
+00:00:08,500 --> 00:00:15,000
+This tool uses ElevenLabs to generate natural-sounding AI voices.
+
+3
+00:00:15,500 --> 00:00:23,000
+Simply select your subtitle file, enter your API key, and start the conversion.
+
+4
+00:00:23,500 --> 00:00:29,500
+The program will create an MP3 file with all your subtitles spoken.
+
+5
+00:00:30,000 --> 00:00:35,000
+If the process stops, it will resume from the last subtitle.
