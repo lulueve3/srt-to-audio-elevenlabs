@@ -4,6 +4,9 @@ Convert `.srt` subtitle files into high-quality speech audio using [ElevenLabs A
 
 <img width="927" height="790" alt="w4exgFQHEt" src="https://github.com/user-attachments/assets/5e99a53e-629b-4dd6-9707-4b9783336c0d" />
 
+## Watch the Tutorial Video
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/OSfoWXtPZhE/maxresdefault.jpg)](https://youtu.be/OSfoWXtPZhE)
+
 
 
 
