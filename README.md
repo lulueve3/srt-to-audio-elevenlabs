@@ -1,4 +1,4 @@
-# SRT to Audio (ElevenLabs)
+# SRT to Audio (ElevenLabs - gTTS)
 
 Convert `.srt` subtitle files into high-quality speech audio using [ElevenLabs API](https://elevenlabs.io/).
 
@@ -12,7 +12,7 @@ Convert `.srt` subtitle files into high-quality speech audio using [ElevenLabs A
 
 ## Features
 - 🎯 Supports `.srt` subtitle input
-- 🗣️ Uses ElevenLabs TTS for natural-sounding voices
+- 🗣️ Uses ElevenLabs TTS, gTTS for natural-sounding voices
 - 💾 Resume progress if the process is interrupted
 
 ---
@@ -43,11 +43,21 @@ pip install -r requirements.txt
    python srt_to_audio.py
 3. In the **GUI**:
    * Select your `.srt` file.
+ 
+    -For gTTS (Google Text-to-Speech):
+
+   * Enter Language code (e.g., en for English)
+ 
+   * Enter Accent (optional, e.g., com, com.au, co.uk)
+ ([Read here for more information](https://elevenlabs.io/app/settings/api-keys))
+    
+   ElevenLabs
    * Enter your **ElevenLabs API Key**.
    * Enter your **Voice ID** (from ElevenLabs voice settings).
    * Enter **Model ID** (default: `eleven_flash_v2_5`).
    * Adjust **Max Speed** if needed.
    * Click **Start Conversion**.
+  
 4. Output audio file will be saved as:
    output_audio.mp3 in the same folder as the `.srt`.
 
